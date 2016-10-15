@@ -1,2 +1,2 @@
-# java_learning
+# java_learning exercies
 Java_learning
